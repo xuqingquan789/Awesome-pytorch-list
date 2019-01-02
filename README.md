@@ -488,6 +488,7 @@ Implementation for the paper A Structured Self-Attentive Sentence Embedding, whi
 273. [integrated-gradient-pytorch](https://github.com/TianhongDai/integrated-gradient-pytorch): This is the pytorch implementation of the paper - Axiomatic Attribution for Deep Networks.
 274. [MalConv-Pytorch](https://github.com/Alexander-H-Liu/MalConv-Pytorch): Pytorch implementation of MalConv. 
 275. [DFL-CNN](https://github.com/songdejia/DFL-CNN/):This is a pytorch re-implementation of Learning a Discriminative Filter Bank Within a CNN for Fine-Grained Recognition.(CVPR2018)
+276. [NTS-Net](https://github.com/yangze0930/NTS-Net):This is a PyTorch implementation of the ECCV2018 paper "Learning to Navigate for Fine-grained Classification"
 
 
 ## Pytorch elsewhere
