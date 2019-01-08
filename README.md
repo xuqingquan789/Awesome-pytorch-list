@@ -489,6 +489,9 @@ Implementation for the paper A Structured Self-Attentive Sentence Embedding, whi
 274. [MalConv-Pytorch](https://github.com/Alexander-H-Liu/MalConv-Pytorch): Pytorch implementation of MalConv. 
 275. [DFL-CNN](https://github.com/songdejia/DFL-CNN/):This is a pytorch re-implementation of Learning a Discriminative Filter Bank Within a CNN for Fine-Grained Recognition.(CVPR2018)
 276. [NTS-Net](https://github.com/yangze0930/NTS-Net):This is a PyTorch implementation of the ECCV2018 paper "Learning to Navigate for Fine-grained Classification"
+277. [STNet](https://github.com/mbiparva/stnet-object-localization):ICCV2017 paper "STNet: Selective Tuning of Convolutional Networks for Object Localization"
+288.[EAST](https://github.com/songdejia/EAST):CVPR2017 paper "EAST: An Efficient and Accurate Scene Text Detector."
+299.[TextSnake](https://github.com/princewang1994/TextSnake.pytorch):ECCV2018 Paper "TextSnake: A Flexible Representation for Detecting Text of Arbitrary Shapes"
 
 
 ## Pytorch elsewhere
