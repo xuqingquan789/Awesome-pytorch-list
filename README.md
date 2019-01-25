@@ -492,9 +492,9 @@ Implementation for the paper A Structured Self-Attentive Sentence Embedding, whi
 277. [STNet](https://github.com/mbiparva/stnet-object-localization):ICCV2017 paper "STNet: Selective Tuning of Convolutional Networks for Object Localization"
 288. [EAST](https://github.com/songdejia/EAST):CVPR2017 paper "EAST: An Efficient and Accurate Scene Text Detector."
 299. [TextSnake](https://github.com/princewang1994/TextSnake.pytorch):ECCV2018 Paper "TextSnake: A Flexible Representation for Detecting Text of Arbitrary Shapes"
-300. [Learn to Pay Attention] (https://github.com/SaoYan/LearnToPayAttention):ICLR2018 paper "Learn to Pay Attention"
-301. [Attenion Gated Network] (https://github.com/ozan-oktay/Attention-Gated-Networks/tree/a96edb72622274f6705097d70cfaa7f2bf818a5a):"Attention-Gated Networks for Improving Ultrasound Scan Plane Detection"
-302. [Attend and Rectify] (https://github.com/prlz77/attend-and-rectify):ECCV2018 paper "Attend and Rectify: a Gated Attention
+300. [Learn to Pay Attention](https://github.com/SaoYan/LearnToPayAttention):ICLR2018 paper "Learn to Pay Attention"
+301. [Attenion Gated Network](https://github.com/ozan-oktay/Attention-Gated-Networks/tree/a96edb72622274f6705097d70cfaa7f2bf818a5a):"Attention-Gated Networks for Improving Ultrasound Scan Plane Detection"
+302. [Attend and Rectify](https://github.com/prlz77/attend-and-rectify):ECCV2018 paper "Attend and Rectify: a Gated Attention
 Mechanism for Fine-Grained Recovery."
 
 
